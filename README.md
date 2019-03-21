@@ -11,3 +11,8 @@ Once the token is generated users can able to access the URI
 Two Roles are available
 Admin and
 User
+
+Technology used:
+Springboot,
+MongoDb
+Rest WebService
