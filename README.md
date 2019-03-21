@@ -9,5 +9,5 @@ password:password
 Once the token is generated users can able to access the URI
 
 Two Roles are available
-Admin
+Admin and
 User
