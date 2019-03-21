@@ -1,0 +1,35 @@
+{
+    "movieId" : "1",
+    "userComment" : [ 
+        {
+            "user" : "fakmomin",
+            "comment" : "my favourite film"
+        }, 
+        {
+            "user" : "ravi",
+            "comment" : "a mediocre affair"
+        }, 
+        {
+            "user" : "ajay",
+            "comment" : "a so so film"
+        }
+    ]
+}
+
+{
+    "movieId" : "2",
+    "userComment" : [ 
+        {
+            "user" : "fakmomin2",
+            "comment" : "super duper"
+        }, 
+        {
+            "user" : "tejas",
+            "comment" : "9/10"
+        }, 
+        {
+            "user" : "vijay",
+            "comment" : "mindblowing"
+        }
+    ]
+}

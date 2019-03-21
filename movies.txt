@@ -1,0 +1,109 @@
+{
+    "movieName" : "DDLJ",
+    "movieDescription" : "a romantic movie",
+    "dateOfRelease" : "25-DEC-1995",
+    "theaters" : [ 
+        "vandana", 
+        "aakash", 
+        "minerva"
+    ],
+    "cast" : {
+        "actors" : [ 
+            "shahrukh", 
+            "kajol", 
+            "anupam kher"
+        ],
+        "producers" : [ 
+            "yash raj", 
+            "yash chopra"
+        ],
+        "directors" : [ 
+            "aaditya", 
+            "uday"
+        ]
+    },
+    "rating" : 4,
+    "duration" : 3.15
+}
+
+{
+    "movieName" : "DDLJ2",
+    "movieDescription" : "a romantic movie 2",
+    "dateOfRelease" : "25-DEC-1995",
+    "theaters" : [ 
+        "vandana", 
+        "aakash", 
+        "minerva"
+    ],
+    "cast" : {
+        "actors" : [ 
+            "shahrukh", 
+            "kajol2", 
+            "anupam kher"
+        ],
+        "producers" : [ 
+            "yash raj", 
+            "yash chopra"
+        ],
+        "directors" : [ 
+            "aaditya2", 
+            "uday2"
+        ]
+    },
+    "rating" : 3,
+    "duration" : 3.15
+}
+
+{
+    "movieName" : "titanic",
+    "movieDescription" : "a an adventure movie 2",
+    "dateOfRelease" : "25-DEC-1996",
+    "theaters" : [ 
+        "vandana", 
+        "aakash", 
+        "minerva"
+    ],
+    "cast" : {
+        "actors" : [ 
+            "leo", 
+            "kate"
+        ],
+        "producers" : [ 
+            "james", 
+            "cameroon"
+        ],
+        "directors" : [ 
+            "steven", 
+            "speielberg"
+        ]
+    },
+    "rating" : 5,
+    "duration" : 3.0
+}
+
+{
+    "movieName" : "titanic 2",
+    "movieDescription" : "james cameroon new adventure thrill",
+    "dateOfRelease" : "25-DEC-1996",
+    "theaters" : [ 
+        "vandana", 
+        "aakash", 
+        "minerva"
+    ],
+    "cast" : {
+        "actors" : [ 
+            "leo", 
+            "kate"
+        ],
+        "producers" : [ 
+            "james", 
+            "cameroon"
+        ],
+        "directors" : [ 
+            "steven", 
+            "speielberg"
+        ]
+    },
+    "rating" : 5,
+    "duration" : 0.1
+}
